@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm john kinuthia</h1>
-<h3 align="center">A Dedicated fullstack developer from Nairobi Kenya.</h3>
+<h3 align="center">A Dedicated Backend developer from Nairobi Kenya.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnkinuthiaa&label=Profile%20views&color=0e75b6&style=flat" alt="johnkinuthiaa" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Nevani housing](https://pata-keja-3u2v.onrender.com)
 
-- 🌱 I’m currently learning **React,Django**
+- 🌱 I’m currently learning **Springboot,Django**
 
-- 💬 Ask me about **react,Django,Spring**
+- 💬 Ask me about **Django,Spring**
 
 - 📫 How to reach me **johnmuniu477@gmail.com**
 

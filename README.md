@@ -33,7 +33,7 @@
       </td>
       <td width="25%" align="center">
         <span><strong>TypeScript</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typeScript.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>JavaScript</strong></span><br><br><br>

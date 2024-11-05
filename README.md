@@ -5,12 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Nevani housing](https://pata-keja-3u2v.onrender.com)
+- 🔭 I’m currently working on my vanilla js skills and building restful apis 
   
 
-- 🌱 I’m currently learning **Springboot,angular,hibernate and ORMs**
+- 🌱 I’m currently learning **Springboot,Javascript**
 
-- 💬 Ask me about **springboot**
+- 💬 Ask me about **springboot,Rest api's and ORMS**
 
 - 📫 How to reach me **johnmuniu477@gmail.com**
 
@@ -21,7 +21,7 @@
 </p>
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack and Tools:
 
 
 <table>
@@ -30,6 +30,10 @@
       <td width="25%" align="center">
         <span><strong>Spring</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Spring</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>JavaScript</strong></span><br><br><br>

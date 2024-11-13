@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on my vanilla js skills and building restful apis 
   
 
-- 🌱 I’m currently learning **Springboot,Javascript**
+- 🌱 I’m currently learning **Springboot,Javascript,React**
 
 - 💬 Ask me about **springboot,Rest api's and ORMS**
 

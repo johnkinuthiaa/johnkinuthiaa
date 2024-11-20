@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on my vanilla js skills and building restful apis 
   
 
-- 🌱 I’m currently learning **Springboot,Javascript,React**
+- 🌱 I’m currently learning **Springboot,Javascript,React,responsive Ui**
 
 - 💬 Ask me about **springboot,Rest api's and ORMS**
 
@@ -100,6 +100,14 @@
         <span><strong>Kafka</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/kafka.svg">
       </td>
+     <td width="25%" align="center">
+          <span><strong>TypeScript</strong></span><br><br><br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+        </td>
+     <td width="25%" align="center">
+            <span><strong>React</strong></span><br><br><br>
+            <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+          </td>
     </tr>
   </tbody>
 </table>

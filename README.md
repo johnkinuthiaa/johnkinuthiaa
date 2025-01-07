@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm john kinuthia</h1>
-<h3 align="center">A Backend developer from Nairobi Kenya.</h3>
+<h1 align="center">Hi 👋, I'm john kinuthia (20yrs)</h1>
+<h3 align="center">An aspiring Backend developer from Nairobi Kenya.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnkinuthiaa" alt="johnkinuthiaa" /></a> </p>
 
@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on my vanilla js skills and building restful apis 
   
 
-- 🌱 I’m currently learning **Javascript,React,responsive Ui**
+- 🌱 I’m currently learning **React,Go**
 
 - 💬 Ask me about **springboot,Rest api's and ORMS**
 

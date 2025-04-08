@@ -1,25 +1,19 @@
-<h1 align="center">Hi 👋, I'm john kinuthia </h1>
-<h3 align="center">A 20 year old aspiring Backend developer from Nairobi Kenya.</h3>
+<h1 align="center">Hi 👋, I'm John Kinuthia </h1>
+<h3 align="center">A 20 year old Backend developer from Nairobi Kenya.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnkinuthiaa" alt="johnkinuthiaa" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on my vanilla js skills and building restful apis 
+- 🔭 I’m currently working on my Nevani ACME. skills and building restful apis 
   
-
-- 🌱 I’m currently learning **React,Go**
+- 🌱 I’m currently learning **Nextjs,Microservices,Docker**
 
 - 💬 Ask me about **springboot,Rest api's and ORMS**
 
 - 📫 How to reach me **johnmuniu477@gmail.com**
-
-- ⚡ Fun fact **c**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
+- 
+- ⚡ Fun fact **People are more creative in the shower.**
 
 # 💻 Tech Stack and Tools:
 
@@ -109,6 +103,13 @@
             <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
           </td>
     </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Nextjs</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
+      </td>
+    </tr>
+  
   </tbody>
 </table>
 
